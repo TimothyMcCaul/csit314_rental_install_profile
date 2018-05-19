@@ -7,6 +7,51 @@ distribution:
 name: 'CSIT314 Rental Install Profile Distribution'
 
 dependencies:
-
+  - automated_cron
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - color
+  - comment
+  - config
+  - contact
+  - contextual
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - help
+  - history
+  - image
+  - link
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - search
+  - shortcut
+  - system
+  - taxonomy
+  - text
+  - toolbar
+  - tour
+  - user
+  - views_ui
+  - menu_link_content
+  - views
+  - standard
 
 themes:
+  - stable
+  - classy
+  - bartik
+  - seven
